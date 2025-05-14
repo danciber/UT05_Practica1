@@ -29,9 +29,9 @@ def calculadora():
         print("Error: por favor, ingresa números válidos.")
         return
 
-    if opcion == '1':
+    if opcion == '2':
         print("Resultado:", sumar(num1, num2))
-    elif opcion == '2':
+    elif opcion == '1':
         print("Resultado:", restar(num1, num2))
     elif opcion == '3':
         print("Resultado:", multiplicar(num1, num2))
