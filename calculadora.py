@@ -15,8 +15,8 @@ def dividir(a, b):
 
 def calculadora():
     print("Operaciones disponibles:")
-    print("1. Sumar")
-    print("2. Restar")
+    print("1. Restar")
+    print("2. Sumar")
     print("3. Multiplicar")
     print("4. Dividir")
 
